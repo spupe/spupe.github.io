@@ -1,1 +1,1 @@
-# spupe.github.io
+http://spupe.de
