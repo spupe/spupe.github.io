@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>&amp;copy; 2022 Stefano Pupe</copyright>
-    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://spupe.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://spupe.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good Train Bad Train</title>
+      <link>http://spupe.github.io/projects/goodtrainbadtrain/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://spupe.github.io/projects/goodtrainbadtrain/</guid>
+      <description>Predict whether long-range train rides in Germany will be delayed, using a machine learning model. Key tools: Python, pandas, Scikit-learn, Keras, Streamlit, GCP. &lt;a href=&#34;https://goodtrainbadtrain.streamlit.app&#34;&gt;Live Demo&lt;/a&gt;, &lt;a href=&#34;https://github.com/Good-Train-Bad-Train/gtbt&#34;&gt;GitHub&lt;/a&gt;</description>
+    </item>
+    
     <item>
       <title>Cell types in the Medial Septum</title>
       <link>http://spupe.github.io/projects/septum/</link>
@@ -15,15 +24,6 @@
       
       <guid>http://spupe.github.io/projects/septum/</guid>
       <description>Scientific paper summarizing my most recent postdoc work, in which we identified neuronal cell types according to their transcriptome. Key tools: R, Seurat, ggplot2, plotly. &lt;a href=&#34;https://&#34;&gt;GitHub&lt;/a&gt;</description>
-    </item>
-    
-    <item>
-      <title>Good Train Bad Train</title>
-      <link>http://spupe.github.io/projects/goodtrainbadtrain/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://spupe.github.io/projects/goodtrainbadtrain/</guid>
-      <description>Predict whether long-range train rides in Germany will be delayed, using a machine learning model. Key tools: Python, pandas, folium, Scikit-learn, Heroku, Streamlit, GCP. &lt;a href=&#34;http://goodtrainbadtrain.herokuapp.com&#34;&gt;Live Demo&lt;/a&gt;, &lt;a href=&#34;https://github.com/Good-Train-Bad-Train/gtbt&#34;&gt;GitHub&lt;/a&gt;</description>
     </item>
     
   </channel>
